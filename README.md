@@ -5,18 +5,9 @@
 
 ---
 
-### 🏆 **Experience**
-- **IDCamp Data Science 2024**
-- **AWS Back-End Academy 2024**
-- **IBM Quantum Challenge 2024**
-- **The Coding School Quantum Computing in partnership with Google Quantum AI 2023/2024**
-- **RevoU Fundamentals of Data Analytics & Software Engineering 2023**
-- **IBM Quantum Explorer 2023**
-- **IBM Qiskit Global Summer School 2023**
-- **Indonesian Thematic Robot Contest (KRTMI) 2023**
-- **Indonesian ABU Robot Contest (KRAI) 2022**
-
----
+### 🌍 **About Me**
+- 📍 Based in **Indonesia**
+- 🤝 Open to **collaborations** in Quantum Computing, Physics, and Data Science
 
 ### 🧠 **What I'm Learning**
 - ⚛ **Quantum Computing & Computational Physics**
@@ -25,10 +16,6 @@
 
 ### 🔬 **Current Projects**
 - 🖥 **Developing a Computational Physics Library in Python**
-
-### 🌍 **About Me**
-- 📍 Based in **Indonesia**
-- 🤝 Open to **collaborations** in Quantum Computing, Physics, and Data Science
 
 ---
 
